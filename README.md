@@ -53,29 +53,6 @@ My first HTML & CSS project - a recipe website showcasing fundamental web develo
 
 **Tech:** HTML5 | CSS3 | Responsive Design
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-meen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-meen&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-meen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-## 🎯 Current Focus
-
-```javascript
-const meenakshi = {
-    location: "Coimbatore, India",
-    education: "Sri Krishna College of Engineering and Technology",
-    currentFocus: ["JavaScript Fundamentals", "DOM Manipulation", "Responsive Design"],
-    learning: ["React", "Node.js", "Full Stack Development"],
-    lookingFor: "Frontend Development Internship Opportunities",
-    hobbies: ["Coding", "Problem Solving", "Building Projects", "Learning New Tech"]
-};
-```
 
 ## 🌟 What I'm Working On
 
