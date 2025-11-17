@@ -75,9 +75,7 @@ My first HTML & CSS project - a recipe website showcasing fundamental web develo
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=myself-meen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/myself-meen">myself-meen</a> | Building the web, one project at a time! 💻✨</i>
