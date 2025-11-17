@@ -1,12 +1,12 @@
 # Hi there, I'm Meenakshi S! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Web+Experiences;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Developer;Building+Web+Experiences;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** and Computer Science student at **Sri Krishna College of Engineering and Technology, Coimbatore**. I love transforming ideas into interactive web experiences using clean, efficient code.
+I'm a passionate **Developer** and Information Technology student at **Sri Krishna College of Engineering and Technology, Coimbatore**. I love transforming ideas into interactive web experiences using clean, efficient code.
 
 - 🌱 Currently mastering **JavaScript** and modern web development through [The Odin Project](https://www.theodinproject.com/)
 - 💡 Building projects that solve real-world problems
@@ -38,20 +38,10 @@ An interactive pixel art drawing application with dynamic grid sizing and color 
 
 **Tech:** HTML5 | CSS3 | JavaScript | DOM Manipulation
 
-### 🧮 [JavaScript Calculator](https://github.com/myself-meen/js-calculator)
-A fully functional calculator with clean UI and proper order of operations. Features keyboard support and handles edge cases.
-
-**Tech:** HTML5 | CSS3 | JavaScript | Event Handling
-
 ### ✊ [Rock Paper Scissors](https://github.com/myself-meen/Rock-Paper-Scissors)
 Classic game implementation with an intuitive UI and score tracking. A fun project demonstrating JavaScript logic and DOM updates.
 
 **Tech:** HTML5 | CSS3 | JavaScript
-
-### 🍽️ [Odin Recipes](https://github.com/myself-meen/odin-recipies)
-My first HTML & CSS project - a recipe website showcasing fundamental web development skills and responsive design principles.
-
-**Tech:** HTML5 | CSS3 | Responsive Design
 
 
 ## 🌟 What I'm Working On
