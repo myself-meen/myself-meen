@@ -1,72 +1,92 @@
-# Hi there, I'm Meenakshi S! 👋
+# Hi, I'm Meenakshi S 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Developer;Building+Web+Experiences;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
-</div>
+I’m a second-year **Information Technology student** at **Sri Krishna College of Engineering and Technology, Coimbatore**, with a strong interest in **backend development**, **frontend fundamentals**, and **problem-solving**.
 
-## 🚀 About Me
-
-I'm a passionate **Developer** and Information Technology student at **Sri Krishna College of Engineering and Technology, Coimbatore**. I love transforming ideas into interactive web experiences using clean, efficient code.
-
-- 🌱 Currently mastering **JavaScript** and modern web development through [The Odin Project](https://www.theodinproject.com/)
-- 💡 Building projects that solve real-world problems
-- 🎯 Actively seeking **internship opportunities** to grow and contribute
-- 📚 Learning by doing - every project is a new adventure!
-- ⚡ Fun fact: I believe the best way to learn is to build!
-
-## 🛠️ Tech Stack
-
-### Languages & Markup
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-### Currently Learning
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-## 📌 Featured Projects
-
-### 🎮 [Etch-a-Sketch](https://github.com/myself-meen/etch-a-sketch)
-An interactive pixel art drawing application with dynamic grid sizing and color options. Built with vanilla JavaScript, focusing on DOM manipulation and event handling.
-
-**Tech:** HTML5 | CSS3 | JavaScript | DOM Manipulation
-
-### ✊ [Rock Paper Scissors](https://github.com/myself-meen/Rock-Paper-Scissors)
-Classic game implementation with an intuitive UI and score tracking. A fun project demonstrating JavaScript logic and DOM updates.
-
-**Tech:** HTML5 | CSS3 | JavaScript
-
-
-## 🌟 What I'm Working On
-
-- 🔨 Completing The Odin Project's Foundations course
-- 💻 Building a personal portfolio website
-- 📖 Deepening my JavaScript knowledge
-- 🚀 Contributing to open source projects
-- 📝 Documenting my learning journey
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenakshi-s-470761290/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myself-meen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smeenakshi1308@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myself-meen.github.io/WEBSITE/)
-
-</div>
+I enjoy building structured, real-world projects and learning systems deeply rather than just skimming tools.
 
 ---
 
+## 🔍 What I Focus On
+- Backend development using **Java and Spring Boot**
+- Designing **REST APIs** with clean layering (Controller, Service, Repository)
+- Frontend fundamentals using **HTML, CSS, and JavaScript**
+- Improving logical thinking through **DSA and problem-solving**
+- Learning by building complete, explainable projects
 
+I’m currently seeking **internship opportunities** where I can learn, contribute, and grow as a developer.
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/myself-meen">myself-meen</a> | Building the web, one project at a time! 💻✨</i>
-</div>
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Java  
+- Spring Boot  
+- REST APIs  
+- MySQL  
+
+**Frontend**
+- HTML5  
+- CSS3 (Flexbox, Grid)  
+- JavaScript (DOM manipulation, core patterns)
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Linux development environment  
+
+**Currently Learning**
+- Advanced Spring Boot concepts  
+- React (component-based UI development)  
+- Data Structures & Algorithms  
+
+---
+
+## 📌 Featured Projects
+
+### 🏢 Corporate Training Management System (Backend)
+**Spring Boot REST API**
+
+A backend application to manage corporate training programs, instructors, students, and courses.
+
+**Highlights**
+- Designed RESTful APIs using Spring Boot  
+- Implemented relational entity mappings and MySQL persistence  
+- Added pagination and filtering using Pageable  
+- Followed layered architecture with proper exception handling  
+
+**Tech:** Java | Spring Boot | MySQL | REST APIs  
+🔗 GitHub: https://github.com/myself-meen/corporate-training-management-system
+
+---
+
+### 📊 Admin Dashboard (Frontend UI)
+**HTML & CSS Project**
+
+A professional admin dashboard layout inspired by real-world applications, built as part of The Odin Project.
+
+**Highlights**
+- Structured layout using CSS Grid and nested grids  
+- Sidebar navigation, header controls, and card-based content sections  
+- Focused on scalable and maintainable UI structure  
+
+**Tech:** HTML | CSS (Grid, Flexbox)  
+🔗 GitHub: https://github.com/myself-meen/admin-dashboard
+
+---
+
+## 🎯 Current Goals
+- Strengthen backend fundamentals with Spring Boot
+- Improve frontend interactivity with JavaScript and React
+- Build projects that are simple, clear, and explainable
+- Prepare for software development internships
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/myself-meen  
+- **LinkedIn:** https://www.linkedin.com/in/meenakshi-s-470761290/
+  
+---
+
+*Always learning. Always building.*
